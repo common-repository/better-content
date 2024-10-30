@@ -1,0 +1,31 @@
+.bettercontent {
+    margin-left: 0;
+    padding-left: 0;
+    display: inline;
+ } 
+ 
+.bettercontent li {
+    margin-left: 0;
+    padding: 3px 15px;
+    border-left: 1px solid #000;
+    list-style: none;
+    display: inline;
+}
+ 
+.bettercontent li:first-child {
+    margin-left: 0;
+    padding: 3px 15px 0px 0px;
+    border-left: none;
+    list-style: none;
+    display: inline;
+} 
+ 
+.bettercontent-button {
+    color: #d12d73;
+}
+
+.bettercontent-sortable { 
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+}
